@@ -1,0 +1,66 @@
+.logo{
+    width: 40%;
+    max-width: 150px;
+    margin: 0%;
+}
+header{
+    font-size: 2pc;
+    background-color: gold;
+    border-radius: 16px;
+    margin-bottom: 1%;
+}
+h1{
+    color: blueviolet;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+}
+a:hover{
+    text-decoration: underline;
+}
+.a-nav{
+    color: gold;
+}
+div{
+    border-radius: 16px;
+}
+.col-md{
+    background-color: blueviolet;
+    font-weight: bold;
+}
+.m-2{
+    font-size: 1rem;
+}
+.container-md{
+    margin-bottom: 1%;
+}
+.container-fluid{
+    background-color: cadetblue;
+    margin-bottom: 1%;
+}
+.d-md-flex{
+    margin-bottom: 1%;
+}
+.table-responsive{
+    width: 100%;
+}
+table{
+    width: 100%;
+    font-weight: bold;
+}
+td{
+    padding: 1%;
+}
+th{
+    padding: 1%;
+}
+table tr:nth-child(even) {
+    background-color: yellow;
+}
+table tr:nth-child(odd) {
+    background-color: purple;
+}
+footer{
+    font-size: 24px;
+}
